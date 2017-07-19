@@ -1,0 +1,21 @@
+{
+  "name": "jest101",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "watch:test":"jest --watch",
+    "coverage:test":"jest --coverage"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^20.0.4"
+  },
+  "dependencies": {
+    "add": "^2.0.6",
+    "save-dev": "^2.0.0",
+    "should": "^11.2.1"
+  }
+}
